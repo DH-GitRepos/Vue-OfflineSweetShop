@@ -1,0 +1,516 @@
+{
+    "products":[
+      {
+         "id": "SW00001",
+         "name": "Bit-O-Honey Theatre Box 113g",
+         "priceGBP": "2.99",
+         "cat": "American",
+         "desc": "What has real honey, almond bits, and has been made with the same recipe since 1924? Sounds like a candy I want to try. It's Bit-O-Honey! Made with real honey since 1924, this taffy-like candy has bits of almond in every single bite! With approximately 18 individually wrapped and bite-size Bit-O-Honey, this theater box is perfect. Imported from the USA.",
+         "ingredients": ""
+      },
+      {
+        "id": "SW00002",
+        "name": "Brain Licker Blue Raspberry 60ml",
+        "priceGBP": "1.50",
+        "cat": "American",
+        "desc": "Brain Licker is one of the nation's most popular children's sweets, made by Hannah's. Structured rather like a roll-on deodorant, the roller part is licked at will to enjoy the candy treat. Watch your tongue turn blue.",
+        "ingredients": "Glucose-fructose syrup, water, acids (citric acid, lactic acid, malic acid), flavourings, colours (E133, E150d, E163), preservatives (E202,E211)."
+      },
+      {
+        "id": "SW00003",
+        "name": "Butterfinger unwrapped mini's",
+        "priceGBP": "2.50",
+        "cat": "American",
+        "desc": "Nestlé make the crispety, crunchety, peanut-buttery treat that is Butterfinger. Layers of crunchy and flaky peanut butter candy coated in rich and creamy chocolate. One of America's most popular candy bars for over 90 years!",
+        "ingredients": ""
+      },
+      {
+        "id": "SW00004",
+        "name": "Care Bears Gummi Bears Theatre Box",
+        "priceGBP": "2.49",
+        "cat": "American",
+        "desc": "Adorable, soft and squidgy gummy bears in a fun Care Bears themed theatre box. Fruit Flavoured Gummies candy. Imported from the USA.",
+        "ingredients": "Corn Syrup, Sugar, Gelatin, Citric and Lactic Acid, Water, Cornstarch, Natural and Artificial Flavor, Hydrogenated Coconut Oil, Carnauba Wax, Artificial Color (Red 40, Yellow 5, Yellow 6, Blue 1)."
+      },
+      {
+        "id": "SW00005",
+        "name": "Cookie Dough Bites Cinnamon Bun",
+        "priceGBP": "2.49",
+        "cat": "American",
+        "desc": "The Cookie Dough Bites Cinnamon Bun taste as if they are fresh from the oven! Delicious bite size cinnamon bun pieces in a creamy white chocolatey coating. A delightful American treat, it's hard to just have the one.",
+        "ingredients": "Wheat Flour, Sugar, Hydrogenated Vegetable Oils (Palm Kernel, Rapeseed, Sunflower), Tapioca Syrup, Skimmed Milk Powder, Whole Milk Powder, Colour (E171), Emulsifiers (Soya Lecithin, Sunflower Lecithin), Flavourings, Glycerine, Salt, Glazing Agent (E904), Thickener (E414), Preservative (E202, E307), Rosemary Extract, Acids (Ascorbic Acid, Citric Acid), Raising Agent (E500), Rice Bran."
+      },
+      {
+        "id": "SW00006",
+        "name": "Cookie Dough Bites Double Chocolate Fudge Brownie",
+        "priceGBP": "2.49",
+        "cat": "American",
+        "desc": "The Cookie Dough Bites Fudge Brownie are perfect for chocolate lovers! Delicious bite size fudge brownie pieces, coated in a smooth milk chocolate. Double the chocolate, yummier the taste! A delightful American treat, its so hard to just have one.",
+        "ingredients": "Wheat Flour, Sugar, Hydrogenated Vegetable Oils (Palm Kernel, Rapeseed, Sunflower), Cocoa Powder, Glycerine, Tapioca Syrup, Cocoa Butter, Cocoa Mass, Whole Milk, Emulsifiers (Soya Lecithin, Sunflower Lecithin), Salt, Flavourings, Glazing Agent (E904), Thickener (E414), Preservative (E202, Rosemary Extract, E307), Acids (Ascorbic Acid) Citric Acid)."
+      },
+      {
+        "id": "SW00007",
+        "name": "Cookie Dough Bites Red Velvet Cupcake Bites",
+        "priceGBP": "2.49",
+        "cat": "American",
+        "desc": "The Cookie Dough Red Velvet Bites are perfect for red velvet cake lovers! Delicious bite size cupcake pieces in a creamy red velvet coating. A delightful American treat, its hard to just have one.",
+        "ingredients": "Wheat Flour, Sugar, Hydrogenated Vegetable Oils (Palm Kernel, Rapeseed, Sunflower), Tapioca Syrup, Glycerine, Flavourings, Salt, Skimmed Milk Powder, Whole Milk Powder, Colour (E171), Emulsifiers (Soya Lecithin, Sunflower Lecithin), Thickener (E414), Cocoa Powder, Whey Powder (Milk), Glazing Agent (E904), Preservative (E202, E306), Rosemary Extract, Acids (Ascorbic Acid, Citric Acid), Raising Agent (E500)."
+      },
+      {
+        "id": "SW00008",
+        "name": "Gardener's S'mores Bar 42g",
+        "priceGBP": "1.89",
+        "cat": "American",
+        "desc": "Gardners have long been one of the leading American chocolate manufacturers for their amazingly delicious and unique chocolate bars! Introducing the hugely popular S'mores bar! It features a graham cracker biscuit base and a fluffy marshmallow core, all covered in smooth, thick milk chocolate! Think Walnut Whip minus the Walnut and with the addition of a graham cracker base! Yummy bars, just like those childhood campfire treats. *For an extra gooey, delicious experience, simply remove the wrapper and microwave for 3 to 5 seconds. Imported from the USA",
+        "ingredients": ""
+      },
+      {
+        "id": "SW00009",
+        "name": "Goetze's Caramel Brownie Cow Tales",
+        "priceGBP": "1.00",
+        "cat": "American",
+        "desc": "Goetze's new Limited Edition Cow Tales flavor -  Caramel Brownie - is here! This new Cow Tales flavour has the taste of a decadent, out of the oven chocolate brownie mixed with caramel batter.",
+        "ingredients": "WHEAT flour, Glucose Syrup, Sugar, Glucose-Fructose Syrup, Vegetable Oils (Coconut, Palm), Dextrose, Cocoa Powder, Modified Whey (from MILK), Skimmed MILK, Cream (from MILK), Emulsifiers (E471, SOYA Lecithin), Cocoa Mass, Cocoa Butter, Flavourings, Salt, Corn Starch."
+      },
+      {
+        "id": "SW00010",
+        "name": "Hershey's Twizzlers Strawberry Twists Bag",
+        "priceGBP": "3.99",
+        "cat": "American",
+        "desc": "The classic bright red liquorice twists from Hershey's. These Strawberry flavoured Twizzlers are a classic choice that pairs well with movies, road trips and perfect for sharing with friends and family. Imported from the USA.",
+        "ingredients": ""
+      },
+      {
+        "id": "SW00011",
+        "name": "Hershey's Strawberries N Creme Bar",
+        "priceGBP": "1.20",
+        "cat": "American",
+        "desc": "The Hershey's strawberries N cream bars are ice cream inspired chocolate bars with a deliciously creamy strawberries and cream flavour. These yummy bars deliver a mess-free ice cream experience and is available in two more delightful flavours.",
+        "ingredients": ""
+      },
+      {
+        "id": "SW00012",
+        "name": "Jolly Rancher Awesome Reds Hard Candy",
+        "priceGBP": "4.00",
+        "cat": "American",
+        "desc": "Awesome Reds flavours includes a variety of delicious red fruit flavours that will send your taste buds into overdrive. Packed in a bag, and individually wrapped, makes it easy for everyone to pick their favourite red flavour. Jolly Rancher Awesome Reds Hard Candy are fruit flavoured candies in four red varieties; Cherry, Watermelon, Fruit Punch and Strawberry. 186g. Imported from the USA.",
+        "ingredients": "Corn Syrup, Sugar, Contains 2% or less of: Malic Acid, Natural and Artificial Flavor, Artificial Colour (Red 40, Blue 1, Yellow 6), Mineral Oil, Soy Lecithin."
+      },
+      {
+        "id": "SW00013",
+        "name": "Jolly Ranchers Hard Candy",
+        "priceGBP": "4.00",
+        "cat": "American",
+        "desc": "Jolly Rancher hard candy is an American favourite, bursting with fruity flavours, they are one of our favourite candys too. Imported from the USA. Other flavours available, see our website for more information.",
+        "ingredients": ""
+      },
+      {
+        "id": "SW00014",
+        "name": "Junior Mints 3.5oz",
+        "priceGBP": "2.49",
+        "cat": "American",
+        "desc": "This is a snack to go that you'll want to grab! Cool, creamy mint and pure chocolate combine to make an indulgent sweet treat to savour. Available in a handy theatre box - perfect when you're watching a game or movie and great for popping in your bag, desk or car to satisfy those cravings when they come calling! Imported from the USA.",
+        "ingredients": "Sugar, Semi-Sweet Chocolate (Sugar, Chocolate Processed with Alkali, Cocoa Butter, Emulsifier (Soya Lecithin), Flavouring (Vanillin)), Corn Syrup, Confectioners Glaze, Modified Food Starch, Peppermint Oil, Stabiliser (Invertase)."
+      },
+      {
+        "id": "SW00015",
+        "name": "Mike And Ike Mega Mix Theatre Box",
+        "priceGBP": "2.49",
+        "cat": "American",
+        "desc": "Mike & Ike Mega Mix is packed with 10 new fruity flavours! Including, Caribbean punch, strawberry-banana, paradise punch, grape soda, kiwi banana, mango delight, watermelon, pineapple banana, peach berry, and blue raspberry all in one box. Gluten free and dairy free, eat them one at a time or mix and match to create delightful new flavours!",
+        "ingredients": "Sugar, corn syrup, modified food starch, contains less than 0.5% of the following: citric acid, malic acid, fumaric acid, sodium citrate, dextrin, confectioners glaze, carnauba wax, medium chain triglycerides, natural and artificial flavors, red #40, yellow #5 (tartrazine), blue #1."
+      },
+      {
+        "id": "SW00016",
+        "name": "Milk duds",
+        "priceGBP": "2.49",
+        "cat": "American",
+        "desc": "These original Milk Duds have been an American favourite since 1926, they are little balls of chewy, sweet caramel covered in a milk chocolate flavour coating. Enjoy this Milk Duds Theatre Box whether you are going to the cinema or just planning a night at home.",
+        "ingredients": "Corn Syrup, Sugar, Vegetable Oil (Cocoa Butter, Palm Oil, Shea Oil, Sunflower Oil, Safflower Oil), Dextrose, Nonfat Milk, Reduced Protein Whey (from Milk), Chocolate, Brown Sugar, Whey (from Milk), Emulsifier (E471), Raising Agent (E500), Milkfat, Salt, Glazing Agent (E904), Emulsifier (Soy Lecithin), Thickener (E1400), Vanillin."
+      },
+      {
+        "id": "SW00017",
+        "name": "Nerds Rope Rainbow",
+        "priceGBP": "1.20",
+        "cat": "American",
+        "desc": "Nerds Rainbow Rope is a tasty rope, packed with crunchy, sweet NERDS. Rainbow NERDS on a chewy, fruity string, those sweet little sparks, all together they swing. A tasty rope, packed with crunchy, sweet NERDS. Sweet & crunchy outside. Soft & chewy inside.",
+        "ingredients": ""
+      },
+      {
+        "id": "SW00018",
+        "name": "Sour Patch Kids Extreme Sour Theatre Box 99g",
+        "priceGBP": "2.50",
+        "cat": "American",
+        "desc": "Sour Patch Kids, first they're sour, then they're sweet! For those who enjoy the sour more than the sweet, The Sour Patch Kids Extreme Sour Share Bag is packed with fun, soft and chewy sweets with five extremely sour fruity flavours. Guaranteed mouth-watering fun! Sealed in a theatre box to help keep the candy flavourful and soft.",
+        "ingredients": "Sugar, Invert Sugar Syrup, Glucose Syrup, Modified Maize Starch, Acids (Lactic Acid, Tartaric Acid, Citric Acid), Flavouring, Colours (E102, E110, E129, E133). Warning: E102, E110 and E129 may have an adverse effect on activity and attention in children."
+      },
+      {
+        "id": "SW00019",
+        "name": "Tropical Nerd Rope 26g",
+        "priceGBP": "1.30",
+        "cat": "American",
+        "desc": "A combining of a soft chewy centre, topped with a colourful coating of crunchy candies, make NERD Ropes both yummy and fun.",
+        "ingredients": ""
+      },
+      {
+        "id": "SW00020",
+        "name": "Twizzlers Cherry Pull 'N' Peel Peg Bag (173g)",
+        "priceGBP": "3099",
+        "cat": "American",
+        "desc": "Twizzlers are twisty and knobbly fruity ropes of fun! Cherry fruity ropes. Pull-n-peel each fruity string to enjoy! Twizzlers come in a variety of mouth watering flavours.",
+        "ingredients": "Corn Syrup, Wheat Flour (Wheat Flour, Niacin, Ferrous Sulphate, Vitamin B1, Vitamin B2, Folic Acid), Sugar, Palm Oil, Emulsifier (E471), Salt, Corn Starch, Natural and Artificial Flavour, Glycerol, Acidity Regulator (Citric Acid), Colour (E129)."
+      },
+      {
+        "id": "SW00021",
+        "name": "Very Berry NERD Rope",
+        "priceGBP": "1.25",
+        "cat": "American",
+        "desc": "A combining of a soft chewy centre, topped with a colourful coating of crunchy candies, make NERD Ropes both yummy and fun.",
+        "ingredients": ""
+      },
+      {
+        "id": "SW00022",
+        "name": "War heads sour jelly beans",
+        "priceGBP": "2.50",
+        "cat": "American",
+        "desc": "Warheads have taken their sour expertise with candy and applied it to jelly beans to create a chewy, fruity, sour sensation for your taste buds! Warheads Sour Jelly Beans come in 6 delicious sour sugar coated flavours: Orange, Watermelon, Lemon, Blue Raspberry, Cherry, Green Apple.",
+        "ingredients": "Sugar, glucose syrup, modified corn starch, fumaric acid, flavourings, citric acid, colours (E129, E110, E102, E133). Warning: E102, E110 and E129 may have an adverse effect on activity and attention in children. Contains genetically modified ingredients. Warning: Sour products may cause irritation to the mouth Not recommended for children under 3 years of age."
+      },
+      {
+        "id": "SW00023",
+        "name": "Warheads Sour Chewy Cubes",
+        "priceGBP": "2.49",
+        "cat": "American",
+        "desc": "Shaped like cubes, anything but square. These stackable, snackable fruit chews are sour on the outside with a chewy, gummy center. Good luck putting them down.",
+        "ingredients": ""
+      },
+      {
+        "id": "SW00024",
+        "name": "Warheads Sour Ooze Chewz Theatre Box",
+        "priceGBP": "2.50",
+        "cat": "American",
+        "desc": "Warheads Ooze Chews are oozing with sour flavour. With six mouth-puckering flavours to choose from these chewy treats are filled with a sour goo candy, the perfect combination of sweet and sour. Flavours include mango, strawberry, green apple, black cherry, watermelon and blue raspberry. Since 1985, WARHEADS® has set the standard for sour candy. Today WARHEADS is still the candy of choice for the super sour seekers.",
+        "ingredients": ""
+      },
+      {
+        "id": "SW00025",
+        "name": "BUBS strawberry cheesecake flavour Rombs",
+        "priceGBP": "3.50",
+        "cat": "PickNMix",
+        "desc": "Bubs are a great sweet brand that make a delicious range of jelly and foam based sweets, all of which are suitable for Vegetarians, Vegans and a Halal diet. These foam sweets have great strawberry cheesecake flavour and the distinctive Bubs branding.",
+        "ingredients": "Glucose-fructose syrup, sugar, cornstarch, water, acidity regulators (malic acid, sodium citrate), potato protein, flavours, colours (black carrot concentrate, E100), coconut oil, galzing agent (carnauba wax)"
+      },
+      {
+        "id": "SW00026",
+        "name": "1kg party mix (pre-packaged)",
+        "priceGBP": "10.00",
+        "cat": "PickNMix",
+        "desc": "Very limited stock. Disclaimer: Contents may vary.",
+        "ingredients": ""
+      },
+      {
+        "id": "SW00027",
+        "name": "Baby Dolphins - Blue and White",
+        "priceGBP": "1.25",
+        "cat": "PickNMix",
+        "desc": "Blue and white, fruit flavoured mini jellies in the shape of dolphins, are a new edition to the Vidal range of sweets - These are a jelly soft texture small Dolphin shape sweet which comes in two assorted random mixed colours of Blue and off white colours and is a mild fruity flavour.",
+        "ingredients": "Glucose Syrup, Sugar, Gelatine, Humectant (Sorbitol), Corn Starch, Acid (Citric Acid), Flavourings, Vegetable Oils (Coconut, Palm Kernel), Glazing Agents (Beeswax, Carnauba Wax), Colours (E133, E171)."
+      },
+      {
+        "id": "SW00028",
+        "name": "Giant Snowies",
+        "priceGBP": "1.25",
+        "cat": "PickNMix",
+        "desc": "Tasty white chocolate buttons, sprinkled with a multicoloured, light candy coating - what's not to love? The Kingsway Giant Snowies are a pick n mix favourite that kids both big and small adore! Both eye-catching and moreish.",
+        "ingredients": "Sugar, vegetable fat (palm), whey powder (from milk), wheat flour (with added calcium, iron, niacin, thiamin)*, wheat starch, emulsifier: soya lecithin; glucose syrup, natural flavourings, natural colours: carotenes, betanin, anthocyanins; glazing agent: beeswax. "
+      },
+      {
+        "id": "SW00029",
+        "name": "Barratts Candy Sticks",
+        "priceGBP": "1.25",
+        "cat": "PickNMix",
+        "desc": "These pale sweets, with a delicious Pineapple flavour, not only taste great, but can also be played with too. Popular with both children and adults since time began. Barratt are responsible for many leading sweets, and continue to produce many popular varieties still today.",
+        "ingredients": ""
+      },
+      {
+        "id": "SW00030",
+        "name": "Rainbow Berries",
+        "priceGBP": "1.25",
+        "cat": "PickNMix",
+        "desc": "Rainbow Berries, are a combination of delicious fruit flavour jelly sweets, encased in an array of small multicoloured sugar beads.",
+        "ingredients": "Glucose Syrup*, Sugar, Nonpareils (Sugar, Corn Starch, Modified Corn Starch, Glucose Syrup, Anti-humectant (Calcium Carbonate), Glazing Agent (Carnauba Wax), Anti-Caking Agent (Magnesium Silicate), Colours (E102, E129, E133, E171, E110), Water, Beef Gelatine, Acid (Citric Acid), Flavouring, Acidity Regulator (E331), Colour (E110)."
+      },
+      {
+        "id": "SW00031",
+        "name": "Spogs",
+        "priceGBP": "5.50",
+        "cat": "PickNMix",
+        "desc": "The Jelly Spogs play a big role in the much adored Liquorice Allsorts selection of sweets. Spogs were formerly called Jelly Buttons, and are noted for their punchy aniseed flavour and also their trademark bobbled pink and blue coatings. No wonder they're popular choice for persons of all ages, throughout the year.",
+        "ingredients": "Sugar, glucose syrup, maize starch, water, beef gelatine, aniseed oil, fruit and vegetable concentrates: blackcurrant, carrot; plant concentrate: spirulina."
+      },
+      {
+        "id": "SW00032",
+        "name": "Tongue Painters",
+        "priceGBP": "1.25",
+        "cat": "PickNMix",
+        "desc": "Tongue Painters are tasty, fruit flavoured gummy sweet with a twist. These paintbrush-shaped sweets change the colour of your tongue!",
+        "ingredients": "Sugar, Glucose syrup, Wheat starch, Water, Modified maize starch, Modified potato starch, Acids: Lactic acid, Malic acid, Citric acid; Flavourings, Vegetable Oil (Coconut), Glazing agent (Carnauba wax), Colours: curcumin, brilliant blue FCF, paprika extract; Fruit and vegetable concentrate: black carrot."
+      },
+      {
+        "id": "SW00033",
+        "name": "Haribo Cola Bottles 100g",
+        "priceGBP": "1.25",
+        "cat": "PickNMix",
+        "desc": "Haribo Cola Bottles are an absolute, classic pick 'n' mix sweet. Delicious cola flavour gummy bottles that you just cannot resist!",
+        "ingredients": "Glucose Syrup, Sugar, Gelatine, Dextrose, Acid: Citric Acid, Caramelised Sugar Syrup, Flavouring, Glazing Agents: Beeswax, Carnauba Wax"
+      },
+      {
+        "id": "SW00034",
+        "name": "American Jumbo Jelly Beans 100g",
+        "priceGBP": "1.25",
+        "cat": "PickNMix",
+        "desc": "Jelly beans are an all time family favourite and the Zed Candy American Jumbo Jelly Beans are no exception. Bursting with delicious USA flavours such as cherry, watermelon, grape, blueberry, cotton candy and orange. Jumbo size. Jumbo in flavour.",
+        "ingredients": "SUGAR, GLUCOSE SYRUP, MODIFIED STARCH, ACIDITY REGULATOR: CITRIC ACID; FLAVOURINGS, COLOURS: E133, E160a; VEGETABLE CONCENTRATE: BLACK CARROT, GLAZING AGENTS: CARNAUBA WAX, SHELLAC."
+      },
+      {
+        "id": "SW00035",
+        "name": "Fizzy Sour Apples 100g",
+        "priceGBP": "1.25",
+        "cat": "PickNMix",
+        "desc": "Our apple shaped gummies come in a mix of green, red and yellow colours, and are coated in a refreshing, fizzy sour sugar glaze. This glaze gives them that sour fizzy apple taste, followed by a burst of sweet and delicious apple flavour.",
+        "ingredients": "Sugar, Glucose Syrup, Water, Wheat Starch, Modified Maize Starch, Acids (Lactic Acid, Malic Acid, Citric Acid) Modified Potato Starch, Acidity Regulators (Sodium Malates, Sodium Hydrogen Carbonate), Plant and Vegetable Concentrates (Spirulina, Safflower, Black Carrot), Flavouring, Colour (Curcumin)."
+      },
+      {
+        "id": "SW00036",
+        "name": "Haribo Rhubarb and Custards 100g",
+        "priceGBP": "1.25",
+        "cat": "PickNMix",
+        "desc": "Rhubarb and custard flavoured sweets can come in many different formats. These Haribo Rhubarb and Custard sweets are not like the traditional hard boiled ones, being softer to eat and perhaps a more contemporary idea. Just as delicious though.",
+        "ingredients": "Wheat starch; glucose syrup; palm fat; gelatine; dextrose; emulsifier: mono-and diglycerides of fatty acids, citric acid esters of mono-and diglycerides of fatty acids; acid: citric acid; acidity regulator: trisodium citrate; flavourings, fruit and plant concentrates: safflower, lemon, sweet potato, apple, blackcurrant, radish; colour: copper complexes of chlorophyllins; glazing agents: white and yellow beeswax, carnauba wax; invert sugar syrup."
+      },
+      {
+        "id": "SW00037",
+        "name": "Toffee Bon Bons 100g",
+        "priceGBP": "1.25",
+        "cat": "PickNMix",
+        "desc": "Bonbons are an all time favourite pick & mix treat, available in a wide range of flavours and colours. Bon bons are the perfect for them toffee lovers with a sweet tooth. The Kingsway Toffee Bon Bons are bursting with delicious toffee flavour. Leaving the toffee sensation at the tip of your tongue.",
+        "ingredients": "Sugar, glucose syrup, sweetened condensed milk (whole milk, sugar), fully hydrogenated vegetable fat (coconut), starch, salt, dextrose, flavouring, stabiliser: gum arabic, emulsifier: mono and diglycerides of fatty acids."
+      },
+      {
+        "id": "SW00038",
+        "name": "Haribo Yellow Bellies Snakes 100g",
+        "priceGBP": "1.25",
+        "cat": "PickNMix",
+        "desc": "Haribo Yellow Bellies are a longstanding favourite sweet from this popular brand. Vibrant in colour and extremely fun to eat, both children and adults of all ages enjoy adding Yellow Bellies to their selection of sweets.",
+        "ingredients": "Glucose syrup, sugar, dextrose, gelatine, acid: citric acid; flavouring, fruit and plant concentrates: apple, aronia, blackcurrant, carrot, elderberry, grape, hibiscus, kiwi, lemon, orange, radish, safflower, spirulina; glazing agents: beeswax, carnauba wax; caramelised sugar syrup; elderberry extract."
+      },
+      {
+        "id": "SW00039",
+        "name": "Strawberry Bon Bons 100g",
+        "priceGBP": "1.25",
+        "cat": "PickNMix",
+        "desc": "Bonbons are the original soft centre toffee sweet, but these ones are bursting with sweet strawberry flavour. We also stock more flavours in the Bonbon range, including original tofee, Apple and Lemon to name a few.",
+        "ingredients": "Sugar, glucose syrup, fully hydrogenated vegetable fat (coconut), dextrose, humectant: sorbitols, maltodextrin, stabiliser: gum arabic, acid: citric acid, starch, flavouring, emulsifier: sucrose esters of fatty acids, vegetable concentrate (black carrot)."
+      },
+      {
+        "id": "SW00040",
+        "name": "Fizzy Pink and Blue Bubblegum Bottles 100g",
+        "priceGBP": "1.25",
+        "cat": "PickNMix",
+        "desc": "Kingsway Fizzy Bubblegum Bottles are always a popular choice within Chase's pick 'n' mix range, they are one of our best-selling products to date! All our customer's comment how they love the fizzy bubblegum flavour and bright pink and blue colours.",
+        "ingredients": "Sugar, Glucose Syrup, Water, Gelatine (Pork), Acids (Lactic Acid, Malic Acid, Citric Acid), Acidity Regulators (Sodium Malates, Sodium Hydrogen Carbonate), Flavouring, Vegetable Concentrate (Black Carrot), Colour (E133)."
+      },
+      {
+        "id": "SW00041",
+        "name": "Chocolate Icy Cups 65g",
+        "priceGBP": "1.06",
+        "cat": "Retro",
+        "desc": "Chocolate Icy cups in a foil wrapper - these are a classic from back in the day. These delicious little cups or chocolate goodness are contained in a colourful foil wrapper. The chocolate is so soft that it melts in the mouth and makes you devour the whole bag in one sitting. Grab a bag of Chocolate Icy Cups for just £1.25 – you get about 10 cups in each bag. These are now packed in our own branded Traditional Candy Co sweet bags.",
+        "ingredients": "Sugar, hydrated vegetable oil (coconut, palm, kernel), Whey powder (from Milk), cocoa powder, soya bean flour, emulsifier: soya lecithin, hazelnut paste, natural flavourings."
+      },
+      {
+        "id": "SW00042",
+        "name": "Cola Cubes 100g",
+        "priceGBP": "1.02",
+        "cat": "Retro",
+        "desc": "Classic cola cubes or kola kubes are a not surprisingly cola flavoured boiled sweet, shaped in a cube. Hard boiled with a good flavour of cola. These sweets are heavy but you do get a lot in our 100g bag, but we still recommend grabbing 2 or 3 bags to see your cravings through. Great traditional boiled sweet that everyone who likes cola will enjoy.",
+        "ingredients": "Sugar, glucose syrup, acid: citric acid, palm oil, salt, emulsifier (sunflower lecithin), flavourings, colour: beetroot red."
+      },
+      {
+        "id": "SW00043",
+        "name": "Chewing Nuts 80g",
+        "priceGBP": "1.28",
+        "cat": "Retro",
+        "desc": "Chewy toffee in a chocolate flavoured coating. Wholesale cost of these have double recently so now the bag is 80g for £1.50. These chewing nuts are not actually nuts, they are a chewy toffee centre surrounded by a delicious chocolate flavoured coating. These are the kind of sweets that get stuck in your teeth but it is well worth it as they are delicious. These are now packed in our own brand Traditional Candy Co sweet bags.",
+        "ingredients": "Glucose syrup, full cream sweetened condensed milk (whole milk, sugar), chocolate flavoured coating (sugar, palm oil, whey powder (milk), maize starch, fat reduced cocoa powder, emulsifiers (soya, lecithin, polyglyercol, polycicinoleate), flavouring), sugar, palm oil, salt, emulsifier (mono and di glycerides of fatty acids,) flavouring."
+      },
+      {
+        "id": "SW00044",
+        "name": "Spearmint Chews 100g",
+        "priceGBP": "1.02",
+        "cat": "Retro",
+        "desc": "Spearmint chews are a classic minty chewy sweets with a sweet mint flavour hit. Individually wrapped these are perfect for keeping in your bag or desk drawer so you can munch when you need to. These spearmint chews are prepared in small batches in open copper pans to enhance the flavour.",
+        "ingredients": "Sugar, glucose syrup , vegetable oil (palm kernel, palm stearin oil). egg albumen, natural spearmint flavour."
+      },
+      {
+        "id": "SW00045",
+        "name": "Liquorice Torpedoes 100g",
+        "priceGBP": "1.20",
+        "cat": "Retro",
+        "desc": "Liquorice Comfits or Liquorice Torpedoes. These small bullet shaped sugar coated liquorice flavoured sweets are a classic old fashioned sweet loved by millions, The hard crunchy shell hides a soft liquorice centre. Multi coloured sweets which are ideal to munch on. These now come in our own brand Traditional Candy Co sweet bags.",
+        "ingredients": "Wheat flour (calcium carbonate, iron, niacin thiamin), sugar, treacle, dextrose, glucose syrup, modified tapioca starch, colours (calcium carbonate, curcumin, anthocyanin, mixed carotenes), vegetable oil (palm, coconut), liquorice powder, glazing agents (shellac, carnauba wax), safflower extract, aniseed oil, spirulina."
+      },
+      {
+        "id": "SW00046",
+        "name": "Coconut Mushrooms 80g",
+        "priceGBP": "1.20",
+        "cat": "Retro",
+        "desc": "Traditional coconut mushrooms. These soft chewy sweets are shaped like a mushroom and are topped with flashed coconut. A soft and chewy centre is married with the sweet flavour of coconut to make a truly delicious treat. These are a classic from the 50s and 60s and loved by our customers, and are one of our best selling lines. These now come in our own brand Traditional Candy Co sweet bags.",
+        "ingredients": "Sugar, glucose syrup, desiccated coconut, maize starch, beef gelatine, palm oil, fat reduced cocoa powder, colour (plain caramel), flavouring."
+      },
+      {
+        "id": "SW00047",
+        "name": "Pint Pots 90g",
+        "priceGBP": "1.20",
+        "cat": "Retro",
+        "desc": "Classic beer inspired sweets in the shape of a classic British pint glass. Pint pots or beer bottles are one of our best selling sweets and we can taste why - these are delicious! These sweets are beer flavoured but unfortunately do not contain real beer! They really do have a strong beer flavour and are a real trip down memory lane. Pint pot sweets / beer pint sweets are so delicious we have to stop ourselves from demolishing a bag or 10 everyday. These pint pot beer flavoured sweets are big in size so you do not get a lot of sweets - so buy 5 or 20 bags at a time! These now come in our own brand Traditional Candy Co sweet bags.",
+        "ingredients": "Glucose syrup, wheat starch, citric acid, flavourings, caramel syrup, vegetable oil, glazing agents (carnauba wax), vegetable oil (coconut)."
+      },
+      {
+        "id": "SW00048",
+        "name": "Sweet Peanuts 90g",
+        "priceGBP": "1.20",
+        "cat": "Retro",
+        "desc": "Sweet peanuts are a hard boiled peanut shaped sweet with a distinctive peanut flavour. These now come in our own Traditional Candy Co branded bags! There is no actual peanut in these sweets but they do look remarkably like the real thing. Sweet peanuts are a favourite amongst the 30-60 age bracket but can be loved by young and old! These are one of our most popular lines and it is easy to see why - they are not available in most supermarkets or shops and so sweet peanuts are one of those sweets you do not see everyday - big seller so stock up!",
+        "ingredients": "Sugar, glucose syrup, partially hydrogenated vegetable fats (palm kernel, rapeseed), salt, flavouring, colours (E102, E110, E124, E150a)."
+      },
+      {
+        "id": "SW00049",
+        "name": "Shrimps 100g",
+        "priceGBP": "1.20",
+        "cat": "Retro",
+        "desc": "The classic shrimp fruit flavoured foamy sweets. These shrimp sweets are a classic and are usually paired with bananas to make shrimps and bananas - but why? Such a strange shaped and themed sweet yet we all love them. Delicious fruity flavour and in our 100g bag you get a lot of sweets as they are light and fluffy so they are excellent value for money. Bright pink colour also makes them perfect for a birthday, wedding or christening gift or on Valentine's Day too. Packed in our own brand Traditional Candy Co bags.",
+        "ingredients": "Sugar, Glucose syrup, Water, dextrose, gelatine, cornflour, colour (beetroot red), flavouring."
+      },
+      {
+        "id": "SW00050",
+        "name": "Bananas 90g",
+        "priceGBP": "1.20",
+        "cat": "Retro",
+        "desc": "Classic foam banana sweets area light fluffy delight with a strong banana flavour. These are a classic retro sweet and often paired with Shrimps to make shrimps and bananas - why who knows? You get a lot of sweets for the weight so you get a lot for only a £1.15 - the bag is busting at the seams! These now come in our own Traditional Candy Co branded bags!",
+        "ingredients": "Sugar, glucose syrup, water, dextrose, beef gelatine, maize starch, colour (Curcumin), Flavouring."
+      },
+      {
+        "id": "SW00051",
+        "name": "Aniseed Twists 100g",
+        "priceGBP": "1.20",
+        "cat": "Retro",
+        "desc": "Aniseed twists are a hard crunchy boiled sweet with a sweet aniseed flavour. These may come wrapped or unwrapped based on supply. These aniseed twist sweets are quite big so they will last you a long time. Bright red in colour with a cool aniseed flavour - perfect on a cold winters day. Aniseed twists are one of our best selling lines and comes in a 100g bag for only £1.15",
+        "ingredients": "Sugar, glucose syrup, acid: citric acid, flavouring, colour, E110, E129."
+      },
+      {
+        "id": "SW00052",
+        "name": "Pineapple Cubes 100g",
+        "priceGBP": "1.20",
+        "cat": "Retro",
+        "desc": "Classic pineapple cubes are a pineapple flavoured hard chewy cube shape sweet - name says it all really. Similar to Kola Kubes which we also sell, but these are yellow in colour and have a sweet flavour of pineapple. Grab a 100g bag today for the perfect after tea treat - or to munch whilst at your desk.",
+        "ingredients": "Sugar, Glucose Syrup (Sulphites), Citric Acid, Flavouring, Colour; E100."
+      },
+      {
+        "id": "SW00053",
+        "name": "Chocolate Limes 100g",
+        "priceGBP": "1.20",
+        "cat": "Retro",
+        "desc": "Chocolate Limes are a strange combination but they really work together. This classic boiled sweet has a lime flavoured outer hard shell and then a soft chewy chocolatey middle. Individually wrapped so they keep fresh and easy to store. Great to sucking on whilst watching TV or walking the dog.",
+        "ingredients": "Sugar, Glucose syrup, Milk chocolate centre (3.56%) (Milk chocolate contains: Cocoa solids 30% minimum, Milk solids 20% minimum) (Sugar, whole milk powder, Cocoa butter, Cocoa mass, anhydrous milk fat, Emulsifier: Soya lecithin) Acid: Citric acid, Vegetable fat (Palm oil), Flavouring, Colours:E102, E242."
+      },
+      {
+        "id": "SW00054",
+        "name": "Rhubarb & Custard Hard Boiled 100g",
+        "priceGBP": "1.20",
+        "cat": "Retro",
+        "desc": "Classic hard boiled rhubarb and custard sweets. These pink and yellow sweets have a real hit of rhubarb and custard flavour - a classic combination. Hard boiled so great for sucking on and they last a long time! Very moreish so we recommend buying a few bags!",
+        "ingredients": "Sugar, glucose syrup, acid: citric acid, flavourings, colours: E100, E163."
+      },
+      {
+        "id": "SW00055",
+        "name": "Sherbet Lemons 100g",
+        "priceGBP": "1.20",
+        "cat": "Retro",
+        "desc": "Sherbet lemons are one of the most popular old fashioned boiled sweets that we sell in store. These little gems of lemony goodness have a sweet sherbet centre after you crack through the hard shell. Zingy lemon flavour throughout with a hard crispy shell - sherbet lemons are one of the most well known and most loved retro sweet we sell. These Sherbet lemons and are sold in a 100g bag so you get a lot of sweets however we would recommend getting 2 or 3 bags as they are so tasty you will be upset once the bag is empty.",
+        "ingredients": "Sugar, Glucose syrup, Vegetable Fat (Palm oil), Acids: Citric Acid, Malic Acid, Sodium bicarbonate, Flavouring: Coloraturas E102"
+      },
+      {
+        "id": "SW00056",
+        "name": "Blackcurrant & Liquorice 100g",
+        "priceGBP": "1.20",
+        "cat": "Retro",
+        "desc": "Classic Blackcurrant & Liquorice sweets are individually wrapped for freshness and taste. These hard boiled sweets have a sweet blackcurrant outer shell and a soft liquorice centre. Perfect sweet for sucking on whilst walking the dog, doing a crossword or simply watching country file.",
+        "ingredients": "Sugar, glucose syrup, vegetable fat (palm oil),citric acid, flavourings, full cream sweetened condensed milk, treacle, salt, aniseed oil, emulsifier (sunflower lecithin), colours: E162, E133."
+      },
+      {
+        "id": "SW00057",
+        "name": "Cadbury Dairy Milk Block 95g",
+        "priceGBP": "1.25",
+        "cat": "Chocolate",
+        "desc": "Classic Cadbury Dairy Milk Bar. These are now price marked at £1.25. The best selling and most recognisable chocolate bar in the UK. Big Cadbury chocolate flavour in that iconic purple wrapper. Delicious!",
+        "ingredients": "Milk, sugar, cocoa nutter, cocoa mass, vegetable fats (palm, shea), emulsifiers (E442, E476), flavourings."
+      },
+      {
+        "id": "SW00058",
+        "name": "Fry's Peppermint Cream Single Bar",
+        "priceGBP": "0.89",
+        "cat": "Chocolate",
+        "desc": "Fry's Peppermint Creams Single Bar. You get 1 standard sized bar here. These are a chocolate bar with a peppermint flavoured fondant centre!",
+        "ingredients": "Sugar, cocoa mass, glucose syrup, humectant (glycerol), vegetable fats (palm, shea), emulsifiers (soya lecithin, E476), flavouring."
+      },
+      {
+        "id": "SW00059",
+        "name": "Cadbury Dairy Milk Fruit & Nut Block 95g",
+        "priceGBP": "1.25",
+        "cat": "Chocolate",
+        "desc": "Classic Cadbury Dairy Milk Fruit & Nuts Bar. The best selling and most recognisable chocolate bar in the UK with added fruit and nuts. These are now price marked at £1.25 per bar. Cadbury chocolate with chopped fruit and nuts inside - gotta be one of your five a day surely? Big Cadbury chocolate flavour in that iconic purple wrapper. Delicious!",
+        "ingredients": "Milk, sugar, dried grapes, cocoa butter, chopped almonds, cocoa mass, vegetable fats (palm, shea), emulsifiers (E442, E476), cocoa, flavourings."
+      },
+      {
+        "id": "SW00060",
+        "name": "Nestle Animal Bar Single",
+        "priceGBP": "0.25",
+        "cat": "Chocolate",
+        "desc": "Nestle Animal Bar single 25p price marked. The classic small chocolate bar loved by kids everywhere. Still has a print on an animal on the bar. Only 25p per bar!",
+        "ingredients": ""
+      },
+      {
+        "id": "SW00061",
+        "name": "Fry's Chocolate Cream Single Bar",
+        "priceGBP": "0.89",
+        "cat": "Chocolate",
+        "desc": "Fry's Chocolate Creams Single Bar. You get 1 bar here. These are a chocolate bar with a smooth fondant centre! Check out the other Fry's cream bars in the range too!",
+        "ingredients": "Sugar, cocoa mass, glucose syrup, humectant (glycerol), vegetable fats (palm, shea), emulsifiers (soya lecithin, E476), flavouring."
+      },
+      {
+        "id": "SW00062",
+        "name": "Nestle Milkybar Block 90g",
+        "priceGBP": "1.25",
+        "cat": "Chocolate",
+        "desc": "Nestle Milkybar white chocolate block. Classic milky bars have been turned into a large sharing block of chocolate. White chocolate flavour and irresistible creamy texture, these are a winner! Now price marked at £1.25 per bar.",
+        "ingredients": "Whole and Skimmed Milk Powder (37.5%), Sugar, Cocoa Butter, Vegetable Fat (Palm/ Shea/ Mango Kernel/ Sal), Emulsifier (Sunflower Lecithin), Natural Flavouring, White Chocolate contains Vegetable Fat in Addition to Cocoa Butter."
+      },
+      {
+        "id": "SW00063",
+        "name": "Cadbury Dairy Milk Chopped Hazelnut Block 95g",
+        "priceGBP": "1.25",
+        "cat": "Chocolate",
+        "desc": "Classic Cadbury Dairy Milk Chopped Nuts Bar. These are now price marked at £1.25 per bar.  The best selling and most recognisable chocolate bar in the UK with a classic chopped nuts inside. Cadbury chocolate with nuts - what could be better? Big Cadbury chocolate flavour in that iconic purple wrapper. Delicious!",
+        "ingredients": "Milk, sugar, cocoa butter, chopped hazelnuts, cocoa mass, vegetable fats (shea, palm), emulsifiers (E442, E476), flavourings."
+      },
+      {
+        "id": "SW00064",
+        "name": "Fry's Turkish Delight Single Bar",
+        "priceGBP": "0.85",
+        "cat": "Chocolate",
+        "desc": "Fry's Turkish Delight single chocolate bar. Delicious Turkish design covered with milk chocolate. Is it even Christmas if you don't have a Turkish delight bar? 1 Small 51g bar here at just 85p.",
+        "ingredients": "Glucose syrup, sugar, water, cocoa butter, cocoa mass, modified maize starch, dried skimmed milk, whey permeate powder (from milk), gelling agent (pectin), palm oil, milk fat, colours (beetroot red, carotenes), emulsifier (E442), firming agent (E509), flavourings."
+      }
+   ]
+}

@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* apply global styles */
+@layer base {
+    *,
+    *::before,
+    *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      font-weight: normal;
+    }
+
+    .textBlock p a {
+      color: rgb(211,28,92);
+    }
+
+  }
+
+/* add custom font */
+@font-face {
+  font-family: 'SweetChilli';
+  src: url('/fonts/Sweet-Chili.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Lobster2';
+  src: url('/fonts/LobsterTwo-BoldItalic.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/Montserrat-Regular.woff') format('woff');
+}
+
+@layer components {
+  .customHeadingShadow {
+    @apply font-custom-heading;
+    text-shadow: 4px 4px 4px rgba(0,0,0,0.2);
+    z-index: 0;
+  }
+
+  .customHeading {
+    @apply font-custom-heading2;
+  }
+
+  p, li {
+    @apply font-custom-bodyFont;
+  }
+
+}

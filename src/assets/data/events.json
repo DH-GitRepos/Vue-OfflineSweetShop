@@ -1,0 +1,254 @@
+{
+  "events": [
+    {
+      "eventId": "EVT0001",
+      "eventDay": "Monday",
+      "eventDate": "04/12/2023",
+      "eventTimeFrom": "10:00",
+      "eventTimeTo": "12:00",
+      "eventType": "Private",
+      "eventName": "Morning Sweet Retreat",
+      "eventDescription": "Start your week on a sweet note with our Morning Sweet Retreat. An exclusive private event featuring a delightful array of morning treats."
+    },
+    {
+      "eventId": "EVT0002",
+      "eventDay": "Thursday",
+      "eventDate": "07/12/2023",
+      "eventTimeFrom": "15:30",
+      "eventTimeTo": "18:30",
+      "eventType": "Public",
+      "eventName": "Sweet Sunset Soiree",
+      "eventDescription": "Join us for an evening of indulgence at our Sweet Sunset Soiree. Open to the public, featuring a variety of sweets and decadent desserts."
+    },
+    {
+      "eventId": "EVT0003",
+      "eventDay": "Saturday",
+      "eventDate": "09/12/2023",
+      "eventTimeFrom": "14:00",
+      "eventTimeTo": "17:00",
+      "eventType": "Private",
+      "eventName": "Kids' Candy Craze",
+      "eventDescription": "Host a private party with our Kids' Candy Craze event. A fun-filled afternoon for children with games, candies, and sweet memories."
+    },
+    {
+      "eventId": "EVT0004",
+      "eventDay": "Tuesday",
+      "eventDate": "12/12/2023",
+      "eventTimeFrom": "18:00",
+      "eventTimeTo": "21:00",
+      "eventType": "Public",
+      "eventName": "Twilight Treats Extravaganza",
+      "eventDescription": "Experience the magic of Twilight Treats Extravaganza. An open-to-all event featuring a wide selection of evening sweets and confections."
+    },
+    {
+      "eventId": "EVT0005",
+      "eventDay": "Friday",
+      "eventDate": "15/12/2023",
+      "eventTimeFrom": "11:30",
+      "eventTimeTo": "14:30",
+      "eventType": "Private",
+      "eventName": "Lunchtime Sweet Indulgence",
+      "eventDescription": "Treat your guests to a private Lunchtime Sweet Indulgence. A midday event with a specially curated menu of sweet delights."
+    },
+    {
+      "eventId": "EVT0006",
+      "eventDay": "Sunday",
+      "eventDate": "17/12/2023",
+      "eventTimeFrom": "16:00",
+      "eventTimeTo": "19:00",
+      "eventType": "Public",
+      "eventName": "Sunday Sweets Social",
+      "eventDescription": "Gather with friends and family for a Sunday Sweets Social. Open to all, featuring a mix of sweet treats and socializing in a warm atmosphere."
+    },
+    {
+      "eventId": "EVT0007",
+      "eventDay": "Wednesday",
+      "eventDate": "20/12/2023",
+      "eventTimeFrom": "13:00",
+      "eventTimeTo": "16:00",
+      "eventType": "Private",
+      "eventName": "Afternoon Tea with Sweets",
+      "eventDescription": "Indulge in a private Afternoon Tea with Sweets. A sophisticated event featuring an exquisite selection of teas and sweet delicacies."
+    },
+    {
+      "eventId": "EVT0008",
+      "eventDay": "Monday",
+      "eventDate": "25/12/2023",
+      "eventTimeFrom": "17:30",
+      "eventTimeTo": "20:30",
+      "eventType": "Public",
+      "eventName": "Christmas Eve Sweet Celebration",
+      "eventDescription": "Celebrate the magic of Christmas Eve with our Sweet Celebration. Open to the public, featuring festive sweets and holiday cheer."
+    },
+    {
+      "eventId": "EVT0009",
+      "eventDay": "Thursday",
+      "eventDate": "28/12/2023",
+      "eventTimeFrom": "12:30",
+      "eventTimeTo": "15:30",
+      "eventType": "Private",
+      "eventName": "Midday Sweet Sojourn",
+      "eventDescription": "Take a sweet break in the middle of the day with our Midday Sweet Sojourn. A private event with a delectable selection of daytime treats."
+    },
+    {
+      "eventId": "EVT0010",
+      "eventDay": "Sunday",
+      "eventDate": "31/12/2023",
+      "eventTimeFrom": "20:00",
+      "eventTimeTo": "23:00",
+      "eventType": "Public",
+      "eventName": "New Year's Eve Sweet Countdown",
+      "eventDescription": "Ring in the New Year with our Sweet Countdown event. Open to all, featuring a sweet array of treats as you welcome the new year."
+    },
+    {
+      "eventId": "EVT0011",
+      "eventDay": "Wednesday",
+      "eventDate": "03/01/2024",
+      "eventTimeFrom": "14:00",
+      "eventTimeTo": "17:00",
+      "eventType": "Private",
+      "eventName": "Winter Wonderland Sweets",
+      "eventDescription": "Embrace the winter season with our Winter Wonderland Sweets event. A private gathering featuring seasonal treats and cozy vibes."
+    },
+    {
+      "eventId": "EVT0012",
+      "eventDay": "Saturday",
+      "eventDate": "06/01/2024",
+      "eventTimeFrom": "10:30",
+      "eventTimeTo": "13:30",
+      "eventType": "Public",
+      "eventName": "Weekend Sweet Brunch",
+      "eventDescription": "Enjoy a delightful weekend with our Sweet Brunch event. Open to the public, featuring a brunch menu filled with sweet surprises."
+    },
+    {
+      "eventId": "EVT0013",
+      "eventDay": "Monday",
+      "eventDate": "09/01/2024",
+      "eventTimeFrom": "16:30",
+      "eventTimeTo": "19:30",
+      "eventType": "Private",
+      "eventName": "Evening Sweet Escape",
+      "eventDescription": "Escape into an evening of sweetness with our Evening Sweet Escape. A private event with a curated selection of evening treats."
+    },
+    {
+      "eventId": "EVT0014",
+      "eventDay": "Thursday",
+      "eventDate": "12/01/2024",
+      "eventTimeFrom": "11:00",
+      "eventTimeTo": "14:00",
+      "eventType": "Public",
+      "eventName": "Sweet and Savory Lunch",
+      "eventDescription": "Join us for a Sweet and Savory Lunch. Open to all, featuring a combination of sweet and savory delights for a delightful midday meal."
+    },
+    {
+      "eventId": "EVT0015",
+      "eventDay": "Sunday",
+      "eventDate": "15/01/2024",
+      "eventTimeFrom": "18:00",
+      "eventTimeTo": "21:00",
+      "eventType": "Private",
+      "eventName": "Dinner with Desserts",
+      "eventDescription": "Elevate your private dinner experience with our Dinner with Desserts event. An evening of exquisite dining paired with delightful desserts."
+    },
+    {
+      "eventId": "EVT0016",
+      "eventDay": "Friday",
+      "eventDate": "21/01/2024",
+      "eventTimeFrom": "13:30",
+      "eventTimeTo": "16:30",
+      "eventType": "Public",
+      "eventName": "Afternoon Delight Tasting",
+      "eventDescription": "Indulge in the sweetness of the afternoon with our Afternoon Delight Tasting. Open to the public, featuring a diverse selection of sweet treats to savor."
+    },
+    {
+      "eventId": "EVT0017",
+      "eventDay": "Monday",
+      "eventDate": "24/01/2024",
+      "eventTimeFrom": "10:30",
+      "eventTimeTo": "13:30",
+      "eventType": "Private",
+      "eventName": "Morning Sweets Symposium",
+      "eventDescription": "Start your week with a private Morning Sweets Symposium. Engage in discussions about your favorite sweets while enjoying a curated selection."
+    },
+    {
+      "eventId": "EVT0018",
+      "eventDay": "Thursday",
+      "eventDate": "27/01/2024",
+      "eventTimeFrom": "18:30",
+      "eventTimeTo": "21:30",
+      "eventType": "Public",
+      "eventName": "Evening of Eclairs and Espresso",
+      "eventDescription": "Experience an Evening of Eclairs and Espresso. Open to the public, this event features the perfect pairing of gourmet eclairs and rich espresso."
+    },
+    {
+      "eventId": "EVT0019",
+      "eventDay": "Sunday",
+      "eventDate": "30/01/2024",
+      "eventTimeFrom": "15:00",
+      "eventTimeTo": "18:00",
+      "eventType": "Private",
+      "eventName": "Sweet Sunday Tea Party",
+      "eventDescription": "Host a private Sweet Sunday Tea Party. Delight in an afternoon of tea, pastries, and a variety of sweet treats in a charming setting."
+    },
+    {
+      "eventId": "EVT0020",
+      "eventDay": "Wednesday",
+      "eventDate": "02/02/2024",
+      "eventTimeFrom": "11:00",
+      "eventTimeTo": "14:00",
+      "eventType": "Public",
+      "eventName": "Valentine's Day Sweet Luncheon",
+      "eventDescription": "Celebrate love with our Valentine's Day Sweet Luncheon. Open to all, featuring a romantic spread of sweets perfect for the season of love."
+    },
+    {
+      "eventId": "EVT0021",
+      "eventDay": "Saturday",
+      "eventDate": "05/02/2024",
+      "eventTimeFrom": "14:30",
+      "eventTimeTo": "17:30",
+      "eventType": "Private",
+      "eventName": "Candy Carnival Extravaganza",
+      "eventDescription": "Transform your private event into a Candy Carnival Extravaganza. An afternoon of carnival-themed fun and a delightful array of candies."
+    },
+    {
+      "eventId": "EVT0022",
+      "eventDay": "Tuesday",
+      "eventDate": "08/02/2024",
+      "eventTimeFrom": "16:00",
+      "eventTimeTo": "19:00",
+      "eventType": "Public",
+      "eventName": "Chocolate Lover's Sunset Social",
+      "eventDescription": "Calling all chocolate lovers! Join us for a Chocolate Lover's Sunset Social. Open to the public, featuring decadent chocolate treats as the sun sets."
+    },
+    {
+      "eventId": "EVT0022",
+      "eventDay": "Friday",
+      "eventDate": "11/02/2024",
+      "eventTimeFrom": "12:00",
+      "eventTimeTo": "15:00",
+      "eventType": "Private",
+      "eventName": "Lunchtime Sweets Buffet",
+      "eventDescription": "Elevate your private lunch with a Sweets Buffet. An exclusive event featuring a buffet of sweet delicacies for a delightful midday indulgence."
+    },
+    {
+      "eventId": "EVT0023",
+      "eventDay": "Monday",
+      "eventDate": "14/02/2024",
+      "eventTimeFrom": "19:00",
+      "eventTimeTo": "22:00",
+      "eventType": "Public",
+      "eventName": "Sweetheart's Valentine's Day Gala",
+      "eventDescription": "Celebrate love at our Sweetheart's Valentine's Day Gala. Open to the public, featuring a romantic atmosphere and sweet surprises."
+    },
+    {
+      "eventId": "EVT0024",
+      "eventDay": "Thursday",
+      "eventDate": "17/02/2024",
+      "eventTimeFrom": "14:00",
+      "eventTimeTo": "17:00",
+      "eventType": "Private",
+      "eventName": "Afternoon Tea and Truffles",
+      "eventDescription": "Indulge in a private Afternoon Tea and Truffles event. A sophisticated afternoon affair with a selection of teas and luxurious truffles."
+    }    
+  ]
+}
